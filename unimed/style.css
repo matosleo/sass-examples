@@ -1,0 +1,74 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/_reset\.scss}line{font-family:\000031}}
+* {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\000036}}
+.container {
+  height: 300px;
+  width: 300px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000311}}
+.titulo {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #008950;
+  top: 230px;
+  left: 77px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000319}}
+.left:after, .left:before {
+  content: '';
+  background: #008950;
+  position: absolute; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000325}}
+.left {
+  width: 55px;
+  height: 50px;
+  background-color: #008950;
+  transform: skew(-35deg);
+  left: -90px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000332}}
+  .left:before {
+    width: 30px;
+    height: 35px;
+    top: -35px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000338}}
+  .left:after {
+    width: 55px;
+    height: 40px;
+    top: 50px;
+    left: 25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000347}}
+.right:after, .right:before {
+  content: '';
+  background: #008950;
+  position: absolute; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000353}}
+.right {
+  width: 55px;
+  height: 50px;
+  background-color: #008950;
+  transform: skew(35deg);
+  left: 90px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000360}}
+  .right:before {
+    width: 30px;
+    height: 35px;
+    top: -35px;
+    left: 25px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/unimed\/style\.scss}line{font-family:\0000367}}
+  .right:after {
+    width: 55px;
+    height: 40px;
+    top: 50px;
+    left: -25px; }
+
+/*# sourceMappingURL=style.css.map */
