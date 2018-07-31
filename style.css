@@ -1,0 +1,69 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/_reset\.scss}line{font-family:\000031}}
+* {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\000039}}
+body {
+  background-color: #edeef0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000313}}
+.container {
+  width: 300px;
+  height: 300px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000318}}
+.arvore {
+  width: 70px;
+  height: 150px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000323}}
+.tronco {
+  height: 70%;
+  width: 5px;
+  border-radius: 10px;
+  top: 40px;
+  background-color: #292d39; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000331}}
+.main {
+  width: 100px;
+  height: 140px;
+  background-color: #a1db9e;
+  top: -60px;
+  left: -20px;
+  border: 5px solid #292d39;
+  border-radius: 70%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000341}}
+.ramo {
+  width: 5px;
+  height: 40px;
+  background-color: #292d39;
+  border-radius: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000348}}
+.ramo:nth-child(1) {
+  top: 25px;
+  left: 33px;
+  transform: rotate(50deg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000354}}
+.ramo:nth-child(2) {
+  top: 50px;
+  left: -32px;
+  transform: rotate(-60deg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/leonardo\.matos\/Desktop\/teste_sass\/style\.scss}line{font-family:\0000360}}
+.chao {
+  width: 100%;
+  height: 7px;
+  background-color: #292d39;
+  top: 150px;
+  border-radius: 8px; }
+
+/*# sourceMappingURL=style.css.map */
